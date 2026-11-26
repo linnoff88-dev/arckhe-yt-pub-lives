@@ -1,4 +1,4 @@
-﻿# yt-pub-lives2
+# yt-pub-lives2
 
 ![yt-pub-lives2 Banner](assets/banner.jpg)
 
@@ -350,4 +350,4 @@ Uso interno â€” INEMA TDS (@inematdsx)
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto  - ARCKHÉe

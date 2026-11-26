@@ -4,16 +4,16 @@
 
 ## Código Comum (sincronizado via `scripts/sync-instances`)
 
-| Arquivo | Descrição |
+| Arquivo | Descriçêo |
 |---------|-----------|
-| `scheduler.py` | Scheduler principal (cortes, publicação, auto-sync) |
+| `scheduler.py` | Scheduler principal (cortes, publicaçêo, auto-sync) |
 | `dashboard/server.py` | API do dashboard |
 | `dashboard/index.html` | Frontend do dashboard |
-| `scripts/yt-thumbnail` | Geração de thumbnails |
+| `scripts/yt-thumbnail` | Geraçêo de thumbnails |
 | `scripts/yt-clip` | Corte de clips |
-| `scripts/yt-publish` | Publicação no YouTube |
+| `scripts/yt-publish` | Publicaçêo no YouTube |
 
-## Configuração Específica por Instância
+## Configuraçêo Específica por Instância
 
 ### Identificadores
 
@@ -43,7 +43,7 @@
 
 ## Dados Específicos (NUNCA sincronizar)
 
-| Item | Descrição |
+| Item | Descriçêo |
 |------|-----------|
 | `lives/` | Vídeos, clips, JSONs processados |
 | `config/.env` | Credenciais OAuth, API keys, IDs |
