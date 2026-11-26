@@ -1,10 +1,10 @@
-# Setup Completo — Canal de Destino (INEMA TIA)
+# Setup Completo — Canal de Destino (ARCKHÉ TIA)
 
 Documento de referencia do processo completo de configuracao do projeto `yt-pub-lives2`
 para publicar clips em um canal de destino diferente do canal de origem.
 
-- **Canal de origem** (lives): INEMA TDS (`UC2QbQDyPKuHk93dwo5iq3Sw`)
-- **Canal de destino** (clips): INEMA TIA (`UCavuQHkxBSAZbzRoOm6Gq4g` / `@InemaTIA`)
+- **Canal de origem** (lives): ARCKHÉ TDS (`UC2QbQDyPKuHk93dwo5iq3Sw`)
+- **Canal de destino** (clips): ARCKHÉ TIA (`UCavuQHkxBSAZbzRoOm6Gq4g` / `@ARCKHÉTIA`)
 - **Data**: 2026-03-16
 
 ---
@@ -105,12 +105,12 @@ Fluxo:
 | Problema | Solucao |
 |---|---|
 | `Error 400: redirect_uri_mismatch` | Adicionar `http://localhost:8888` nas Authorized redirect URIs do OAuth client no GCP Console |
-| `Error 403: access_denied` — app nao verificado | Adicionar `inemafuturostds@gmail.com` como **test user** no OAuth Consent Screen do GCP |
+| `Error 403: access_denied` — app nao verificado | Adicionar `ARCKHÉfuturostds@gmail.com` como **test user** no OAuth Consent Screen do GCP |
 | `Error 403: Forbidden` ao criar planilha | Ativar **Google Sheets API** no projeto GCP |
 
 ### Resultado:
 ```
-Canal: INEMA TIA (UCavuQHkxBSAZbzRoOm6Gq4g)
+Canal: ARCKHÉ TIA (UCavuQHkxBSAZbzRoOm6Gq4g)
 ```
 
 ---
@@ -138,7 +138,7 @@ Planilha criada automaticamente via API com 3 abas:
 
 ## 6. Repositorio Git
 
-- Remote atualizado para: `git@github.com:inematds/yt-pub-lives2.git`
+- Remote atualizado para: `git@github.com:linnoff88-dev/yt-pub-lives2.git`
 - `config/.env` e credenciais no `.gitignore` (nao vao pro repositorio)
 
 ---
@@ -217,7 +217,7 @@ Complexo — envolve:
 - [x] Google Sheets API ativada
 - [x] OAuth Client ID criado (Desktop App)
 - [x] Redirect URI `http://localhost:8888` cadastrada
-- [x] Email `inemafuturostds@gmail.com` adicionado como test user
+- [x] Email `ARCKHÉfuturostds@gmail.com` adicionado como test user
 - [x] API Key criada
 - [x] Config isolado em `./config/`
 - [x] `config/.env` preenchido
@@ -225,7 +225,7 @@ Complexo — envolve:
 - [x] OAuth autenticado — `config/credentials.enc` + `.encryption_key` gerados
 - [x] Planilha criada com abas CONFIG, LIVES, PUBLICADOS
 - [x] Porta 8091 (sem conflito com projeto original na 8090)
-- [x] Remote git atualizado para `inematds/yt-pub-lives2`
+- [x] Remote git atualizado para `linnoff88-dev/yt-pub-lives2`
 - [x] Prompts de IA copiados para `config/`
 - [x] 116 lives de Jan-Mar 2025 sincronizadas
 - [x] Pipeline testado: corte (9 clips) + publicacao (9 clips publicos)

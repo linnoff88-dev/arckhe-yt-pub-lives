@@ -754,7 +754,7 @@ def process_enrich(config):
         l for l in lives
         if not (l.get('video_id', '') or '').startswith('import_')
         and (
-            (l.get('titulo', '').strip().upper() == 'INEMA' and l.get('observacoes', '') != 'enriquecida')
+            (l.get('titulo', '').strip().upper() == 'ARCKHÉ' and l.get('observacoes', '') != 'enriquecida')
             or l.get('observacoes', '') == 'refazer_enrich'
         )
     ]
@@ -863,7 +863,7 @@ def process_cortes(config):
             enrich_auto = config.get('enrich_auto', 'false') == 'true'
             enrich_paused = config.get('pipeline_enrich_paused', 'false') == 'true'
             needs_enrich = (
-                live.get('titulo', '').strip().upper() == 'INEMA'
+                live.get('titulo', '').strip().upper() == 'ARCKHÉ'
                 and live.get('observacoes', '') != 'enriquecida'
             )
             if enrich_auto and not enrich_paused and needs_enrich:
@@ -1279,7 +1279,7 @@ def main():
             if not tiktok_pub_match and last_executed.get('tiktok_pub'):
                 last_executed['tiktok_pub'] = None
 
-            # --- Enrich lives (titulo generico INEMA → titulo + desc + thumb) ---
+            # --- Enrich lives (titulo generico ARCKHÉ → titulo + desc + thumb) ---
             enrich_paused = config.get('pipeline_enrich_paused', 'false') == 'true'
             enrich_auto = config.get('enrich_auto', 'false') == 'true'
             enrich_horarios = config.get('enrich_horarios', '')

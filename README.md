@@ -4,8 +4,8 @@
 
 Pipeline automatizado para cortar lives do YouTube em clips por topico e publicar em outro canal.
 
-**Canal de origem** (lives): [INEMA TDS](https://www.youtube.com/@inematdsx) (`UC2QbQDyPKuHk93dwo5iq3Sw`)
-**Canal de destino** (clips): [INEMA TIA](https://www.youtube.com/@InemaTIA) (`UCavuQHkxBSAZbzRoOm6Gq4g`)
+**Canal de origem** (lives): [ARCKHÉ TDS](https://www.youtube.com/@linnoff88-devx) (`UC2QbQDyPKuHk93dwo5iq3Sw`)
+**Canal de destino** (clips): [ARCKHÉ TIA](https://www.youtube.com/@ARCKHÉTIA) (`UCavuQHkxBSAZbzRoOm6Gq4g`)
 
 ## Fluxo
 
@@ -69,7 +69,7 @@ yt-pub-lives2/
 ## Instalacao
 
 ```bash
-git clone git@github.com:inematds/yt-pub-lives2.git
+git clone git@github.com:linnoff88-dev/yt-pub-lives2.git
 cd yt-pub-lives2
 bash setup.sh
 ```
@@ -138,22 +138,22 @@ O script:
 
 **Comandos por instancia:**
 ```bash
-# Lives1 (INEMA TDS)
+# Lives1 (ARCKHÉ TDS)
 GWS_CONFIG_DIR=/home/nmaldaner/.config/gws python3 scripts/yt-auth
 
-# Lives2 (INEMA TIA)
+# Lives2 (ARCKHÉ TIA)
 GWS_CONFIG_DIR=/home/nmaldaner/projetos/yt-pub-lives2/config python3 scripts/yt-auth
 
-# Lives3 (INEMA TDS)
+# Lives3 (ARCKHÉ TDS)
 GWS_CONFIG_DIR=/home/nmaldaner/projetos/yt-pub-lives3/config python3 scripts/yt-auth
 
-# Lives4 (INEMA Tec)
+# Lives4 (ARCKHÉ Tec)
 GWS_CONFIG_DIR=/home/nmaldaner/projetos/yt-pub-lives4/config python3 scripts/yt-auth
 
-# Lives5 (INEMA PROMPTS)
+# Lives5 (ARCKHÉ PROMPTS)
 GWS_CONFIG_DIR=/home/nmaldaner/projetos/yt-pub-lives5/config python3 scripts/yt-auth
 
-# Lives6 (INEMA Robot)
+# Lives6 (ARCKHÉ Robot)
 GWS_CONFIG_DIR=/home/nmaldaner/projetos/yt-pub-lives6/config python3 scripts/yt-auth
 ```
 
@@ -285,12 +285,12 @@ systemctl --user enable --now yt-scheduler5 yt-dashboard5
 
 | Instancia | Porta | Scheduler | Dashboard | Canal Destino | GCP Project |
 |-----------|-------|-----------|-----------|---------------|-------------|
-| lives1 | 8091 | yt-scheduler1 | yt-dashboard1 | INEMA TDS | gws |
-| lives2 | 8092 | yt-scheduler | yt-dashboard | INEMA TIA | webyt |
-| lives3 | 8093 | yt-scheduler3 | yt-dashboard3 | INEMA TDS | yt-pub-lives3 |
-| lives4 | 8094 | yt-scheduler4 | yt-dashboard4 | INEMA Tec | yt-pub4 |
-| lives5 | 8095 | yt-scheduler5 | yt-dashboard5 | INEMA PROMPTS | prompts-491620 |
-| lives6 | 8096 | yt-scheduler6 | yt-dashboard6 | INEMA Robot | inema-robot |
+| lives1 | 8091 | yt-scheduler1 | yt-dashboard1 | ARCKHÉ TDS | gws |
+| lives2 | 8092 | yt-scheduler | yt-dashboard | ARCKHÉ TIA | webyt |
+| lives3 | 8093 | yt-scheduler3 | yt-dashboard3 | ARCKHÉ TDS | yt-pub-lives3 |
+| lives4 | 8094 | yt-scheduler4 | yt-dashboard4 | ARCKHÉ Tec | yt-pub4 |
+| lives5 | 8095 | yt-scheduler5 | yt-dashboard5 | ARCKHÉ PROMPTS | prompts-491620 |
+| lives6 | 8096 | yt-scheduler6 | yt-dashboard6 | ARCKHÉ Robot | ARCKHÉ-robot |
 
 **Sync codigo** (lives2 e a fonte):
 ```bash
@@ -330,9 +330,9 @@ yt-publish video.mp4 --title "Titulo" --description "Desc" --privacy unlisted --
 |---|---|---|
 | Config | Global (`~/.config/gws/`) | Local (`./config/`) |
 | Porta | 8090 | 8091 |
-| Canal destino | Mesmo da origem | Diferente (INEMA TIA) |
+| Canal destino | Mesmo da origem | Diferente (ARCKHÉ TIA) |
 | Auth | Via CLI `gws` | Script `yt-auth` standalone |
-| Repositorio | `inematds/yt-pub-lives` | `inematds/yt-pub-lives2` |
+| Repositorio | `linnoff88-dev/yt-pub-lives` | `linnoff88-dev/yt-pub-lives2` |
 
 ## Tecnologias
 
@@ -346,7 +346,7 @@ yt-publish video.mp4 --title "Titulo" --description "Desc" --privacy unlisted --
 
 ## Licenca
 
-Uso interno â€” INEMA TDS (@inematdsx)
+Uso interno â€” ARCKHÉ TDS (@linnoff88-devx)
 
 ---
 

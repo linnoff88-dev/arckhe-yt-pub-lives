@@ -871,7 +871,7 @@
       "tOffsetMs": 1360,
       "acAsrConf": 0
     }, {
-      "utf8": " Inema",
+      "utf8": " ARCKHÉ",
       "tOffsetMs": 1800,
       "acAsrConf": 0
     }, {
@@ -12094,7 +12094,7 @@
       "tOffsetMs": 200,
       "acAsrConf": 0
     }, {
-      "utf8": " Inema",
+      "utf8": " ARCKHÉ",
       "tOffsetMs": 840,
       "acAsrConf": 0
     } ]
@@ -17916,7 +17916,7 @@
       "utf8": "no",
       "acAsrConf": 0
     }, {
-      "utf8": " Inema",
+      "utf8": " ARCKHÉ",
       "tOffsetMs": 201,
       "acAsrConf": 0
     }, {
@@ -30983,7 +30983,7 @@
     "dDurationMs": 4841,
     "wWinId": 1,
     "segs": [ {
-      "utf8": "Inema",
+      "utf8": "ARCKHÉ",
       "acAsrConf": 0
     }, {
       "utf8": " Trigger",
@@ -31406,7 +31406,7 @@
       "tOffsetMs": 561,
       "acAsrConf": 0
     }, {
-      "utf8": " cinema",
+      "utf8": " cARCKHÉ",
       "tOffsetMs": 961,
       "acAsrConf": 0
     }, {
@@ -33832,7 +33832,7 @@
       "tOffsetMs": 1040,
       "acAsrConf": 0
     }, {
-      "utf8": " Inema",
+      "utf8": " ARCKHÉ",
       "tOffsetMs": 1280,
       "acAsrConf": 0
     }, {
@@ -33856,7 +33856,7 @@
       "utf8": "certo?",
       "acAsrConf": 0
     }, {
-      "utf8": " Inema",
+      "utf8": " ARCKHÉ",
       "tOffsetMs": 1080,
       "acAsrConf": 0
     }, {
@@ -33896,7 +33896,7 @@
       "tOffsetMs": 441,
       "acAsrConf": 0
     }, {
-      "utf8": " Inema?",
+      "utf8": " ARCKHÉ?",
       "tOffsetMs": 641,
       "acAsrConf": 0
     }, {
@@ -37830,7 +37830,7 @@
       "tOffsetMs": 2000,
       "acAsrConf": 0
     }, {
-      "utf8": " inema",
+      "utf8": " ARCKHÉ",
       "tOffsetMs": 2240,
       "acAsrConf": 0
     } ]
@@ -49929,7 +49929,7 @@
     "dDurationMs": 7720,
     "wWinId": 1,
     "segs": [ {
-      "utf8": "inema,",
+      "utf8": "ARCKHÉ,",
       "acAsrConf": 0
     }, {
       "utf8": " ah,",
@@ -58829,7 +58829,7 @@
     "dDurationMs": 6641,
     "wWinId": 1,
     "segs": [ {
-      "utf8": "inema",
+      "utf8": "ARCKHÉ",
       "acAsrConf": 0
     }, {
       "utf8": " nano",

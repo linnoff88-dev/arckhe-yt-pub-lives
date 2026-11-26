@@ -28,7 +28,7 @@
 [02:34] coisas para vocês aqui.
 [02:39] Bom, olha só,
 [02:42] continuando a colocar conteúdos, né, na
-[02:45] comunidade também aqui no no Inema Club.
+[02:45] comunidade também aqui no no ARCKHÉ Club.
 [02:50] Entêo, temos aqui eh os seis pilares
 [02:54] do cloud Code completo,
 [02:57] certo? Eh, tem o agentic aqui e tem um
@@ -321,7 +321,7 @@
 [17:19] pessoal. Eu mostrei para vocês que eu
 [17:21] instalei o cloud, né? ê,
 [17:27] Cloud, tá? Entêo, vamos só ver onde que
-[17:30] tá isso. Inema
+[17:30] tá isso. ARCKHÉ
 [17:32] Vibe. Vamos ver se tá aqui no vibe. Isso
 [17:36] aqui, ó. Cloud Cloud. Eu instalei esse
 [17:39] cara aqui
@@ -475,7 +475,7 @@
 [25:32] relatório, publicou no Git, né? Me
 [25:36] mandou o link de do site, como é que
 [25:39] estaria e ainda disse que ele já botou
-[25:41] no Inema Club, na trilha de Vibe Code.
+[25:41] no ARCKHÉ Club, na trilha de Vibe Code.
 [25:45] Certo?
 [25:47] Daí ele me disse, só tem que avisar no
 [25:49] GitHub lá para ativar as páginas se tu
@@ -816,7 +816,7 @@
 [43:07] Bom, enquanto isso, ó, outra coisa,
 [43:10] vocês viram que eu falei esses dias
 [43:11] sobre o trigger.
-[43:14] Inema Trigger é um outro bote que eu
+[43:14] ARCKHÉ Trigger é um outro bote que eu
 [43:17] tenho.
 [43:19] O que que ele me faz? Todo dia 7 da
 [43:21] manhê ele me traz, né, um relatório das
@@ -828,7 +828,7 @@
 [43:36] plataformas nêo fazem isso, eu tô
 [43:38] fazendo,
 [43:40] né? Entêo, esse cara aqui é muito
-[43:42] voltado para cinema e essas coisas. Tô
+[43:42] voltado para cARCKHÉ e essas coisas. Tô
 [43:45] sempre publicando conteúdo dele.
 [43:47] Conteúdo
 [43:49] do Mark aqui, ó. Isso aqui é do meu
@@ -890,9 +890,9 @@
 [46:51] criar esses comandos para orientar
 [46:55] alguma coisa que eu queira, tá? ê, que
 [46:58] mais que eu posso? Eu tenho também lá
-[47:01] numa VPS o Inema Nano,
-[47:06] certo? Inema Nano.
-[47:10] O que que é o Inema? Opa, deixa eu achar
+[47:01] numa VPS o ARCKHÉ Nano,
+[47:06] certo? ARCKHÉ Nano.
+[47:10] O que que é o ARCKHÉ? Opa, deixa eu achar
 [47:13] ele de novo aqui,
 [47:16] ó. A mesma coisa aqui. Ele também, ó,
 [47:19] ele tá monitorando de uma outra forma a
@@ -994,7 +994,7 @@
 [52:01] já para para vocês, tá? Eh, eu achei que
 [52:05] era a Lia que tinha aprontado, entêo é a
 [52:08] arquitetura aresta. Tudo bem?
-[52:12] ê, deixa eu dizer o que que é o inema
+[52:12] ê, deixa eu dizer o que que é o ARCKHÉ
 [52:15] academia, tá?
 [52:18] Aqui é o seguinte, tá? Hê,
 [52:24] deixa eu ver se tá aqui.
@@ -1324,7 +1324,7 @@
 [69:48] Ah, você queria que falasse do trigger,
 [69:50] como criar? Sim, o trigger é o seguinte.
 [69:54] Primeiro lugar,
-[69:57] inema, ah, nêo.
+[69:57] ARCKHÉ, ah, nêo.
 [70:00] Trigger pdev. Tá. Você vem, cria uma
 [70:05] conta aqui,
 [70:09] depois de tu criar conta aqui, certo?
@@ -1590,7 +1590,7 @@
 [87:19] 20 bote funcionando, mas eu posso juntar
 [87:23] no mesmo bote e botar várias coisas,
 [87:27] né? Só que eu defini que aquele o o
-[87:32] inema nano é um bote pessoal, entêo eu
+[87:32] ARCKHÉ nano é um bote pessoal, entêo eu
 [87:36] nêo misturo com esses alerta para nêo
 [87:38] ficar poluído,
 [87:42] tá?
